@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "Amritha Hospital",
+    "patientCount": 1000,
+    "location": "Kochi"
+  },
+  {
+    "id": "2",
+    "name": "Daya Hospital",
+    "patientCount": 200,
+    "location": "Thrissur"
+  },
+  {
+    "id": "3",
+    "name": "Jubile Mission Hospital",
+    "patientCount": 500,
+    "location": "Thrissur"
+  },
+  {
+    "id": "4",
+    "name": "West Fort Hospital",
+    "patientCount": 300,
+    "location": "Thrissur"
+  }
+]
